@@ -1,3 +1,6 @@
+## VINOTH K R
+## REG.NO:212224050060
+
 # BOOLEAN_FUNCTION_MINIMIZATION
 
 **AIM:**
@@ -32,19 +35,21 @@ Hardware – PCs, Cyclone II , USB flasher
 
 
 **Program:**
+![image](https://github.com/user-attachments/assets/1d3705da-f8c8-464b-ba16-7848ac2832a8)
 
-/* Program to implement the given logic function and to verify its operations in quartus using Verilog programming. 
+![image](https://github.com/user-attachments/assets/70e4cc00-7f91-4506-ae74-8dd66893a1a2)
 
-Developed by: RegisterNumber:*/
+
+![image](https://github.com/user-attachments/assets/0af4351c-a6d9-408d-9c29-3f31a030e976)
+
 
 
 **RTL realization**
+![image](https://github.com/user-attachments/assets/fd008512-fce5-4951-8139-d863b54bdf96)
 
 **Output:**
+![image](https://github.com/user-attachments/assets/d04ffd35-c9fe-4d06-81fe-046cce561805)
 
-**RTL**
-
-**Timing Diagram**
 
 **Result:**
 
